@@ -1,0 +1,22 @@
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\ado net emp.exe
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\ado net emp.deps.json
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\ado net emp.runtimeconfig.json
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\ado net emp.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\ado net emp.pdb
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.csproj.AssemblyReference.cache
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.AssemblyInfoInputs.cache
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.AssemblyInfo.cs
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.csproj.CoreCompileInputs.cache
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net .3E2DD5AA.Up2Date
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\refint\ado net emp.dll
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.pdb
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ado net emp.genruntimeconfig.cache
+C:\Users\nitee\source\repos\ado net emp\ado net emp\obj\Debug\net9.0\ref\ado net emp.dll

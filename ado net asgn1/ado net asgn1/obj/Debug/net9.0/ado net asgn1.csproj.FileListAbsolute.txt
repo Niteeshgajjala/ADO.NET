@@ -1,0 +1,22 @@
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.AssemblyInfoInputs.cache
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.AssemblyInfo.cs
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.csproj.CoreCompileInputs.cache
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\ado net asgn1.exe
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\ado net asgn1.deps.json
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\ado net asgn1.runtimeconfig.json
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\ado net asgn1.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\ado net asgn1.pdb
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.csproj.AssemblyReference.cache
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net .57ECA8F0.Up2Date
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\refint\ado net asgn1.dll
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.pdb
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ado net asgn1.genruntimeconfig.cache
+C:\Users\nitee\source\repos\ado net asgn1\ado net asgn1\obj\Debug\net9.0\ref\ado net asgn1.dll

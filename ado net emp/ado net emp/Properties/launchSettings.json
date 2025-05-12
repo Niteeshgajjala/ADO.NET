@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ado net emp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

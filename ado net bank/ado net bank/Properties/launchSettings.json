@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ado net bank": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
